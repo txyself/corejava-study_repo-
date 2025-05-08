@@ -43,7 +43,6 @@ public class ParamTest{
     }
 }
 
-
 class Employee{
     private String name;
     private double salary;

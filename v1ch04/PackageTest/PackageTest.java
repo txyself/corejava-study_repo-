@@ -6,7 +6,7 @@ import static java.lang.System.*;
  * A {@code packageTest} object represents 
  * a test on package
  */
-public class packageTest
+public class PackageTest
 {
     public static void main(String[] args)
     {   
